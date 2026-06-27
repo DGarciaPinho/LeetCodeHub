@@ -1,6 +1,8 @@
 # LeetCodeHub
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
+## Esse repositorio apresenta algumas das questões que apresentei proeficiencia no LeetCode
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
