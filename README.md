@@ -1,7 +1,7 @@
 # LeetCodeHub
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
-## Esse repositorio apresenta algumas das questÃµes que apresentei proeficiencia no LeetCode
+## Esse repositorio apresenta algumas das questÃÂµes que apresentei proeficiencia no LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
