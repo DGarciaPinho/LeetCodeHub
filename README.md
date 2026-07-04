@@ -1,13 +1,14 @@
 # LeetCodeHub
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
-## Esse repositorio apresenta algumas das questÃÂÃÂÃÂÃÂµes que apresentei proeficiencia no LeetCode
+## Esse repositorio apresenta algumas das questÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµes que apresentei proeficiencia no LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0118-pascals-triangle) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
