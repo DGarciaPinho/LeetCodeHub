@@ -1,7 +1,7 @@
 # LeetCodeHub
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
-## Esse repositorio apresenta algumas das questÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµes que apresentei proeficiencia no LeetCode
+## Esse repositorio apresenta algumas das questÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµes que apresentei proeficiencia no LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
