@@ -1,22 +1,16 @@
 #include <string.h>
 
 bool isValid(char* s) {
-    int n = strlen(s);
     char stack[10001];
     int top = 0;
+    char *open = "([{", *close = ")]}";
 
-    for (int i = 0; i < n; i++) {
-        char c = s[i];
-
-        if (c == '(' || c == '[' || c == '{') {
-            stack[top++] = c;
+    for (int i = 0; s[i]; i++) {
+        char *p = strchr(open, s[i]);
+        if (p) {
+            stack[top++] = close[p - open]; // guarda o fechamento esperado
         } else {
-            if (top == 0) return false;
-
-            char last = stack[--top];
-            if ((c == ')' && last != '(') || (c == ']' && last != '[') || (c == '}' && last != '{')) {
-                return false;
-            }
+            if (top == 0 || stack[--top] != s[i]) return false;
         }
     }
 
