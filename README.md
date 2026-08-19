@@ -1,7 +1,7 @@
 # LeetCodeHub
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
-## Esse repositorio apresenta algumas das questÃÂµes que apresentei proeficiencia no LeetCode
+## Esse repositorio apresenta algumas das questÃÂÃÂµes que apresentei proeficiencia no LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
