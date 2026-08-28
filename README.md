@@ -1,7 +1,7 @@
 # LeetCodeHub
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
-## Esse repositorio apresenta algumas das questÃÂµes que apresentei proeficiencia no LeetCode
+## Esse repositorio apresenta algumas das questÃÂÃÂµes que apresentei proeficiencia no LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0067-add-binary) |
 ## Bit Manipulation
@@ -95,4 +97,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## BoyerâMoore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
