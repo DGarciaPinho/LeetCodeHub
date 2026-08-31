@@ -1,7 +1,7 @@
 # LeetCodeHub
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
-## Esse repositorio apresenta algumas das questÃÂÃÂµes que apresentei proeficiencia no LeetCode
+## Esse repositorio apresenta algumas das questÃÂÃÂÃÂÃÂµes que apresentei proeficiencia no LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,12 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerâMoore String-Search Algorithm
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
