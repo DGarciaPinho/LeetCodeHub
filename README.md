@@ -1,7 +1,7 @@
 # LeetCodeHub
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
-## Esse repositorio apresenta algumas das questÃÂÃÂÃÂÃÂµes que apresentei proeficiencia no LeetCode
+## Esse repositorio apresenta algumas das questÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµes que apresentei proeficiencia no LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0067-add-binary) |
@@ -94,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0021-merge-two-sorted-lists) |
 ## String Matching
 |  |
@@ -107,11 +110,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
