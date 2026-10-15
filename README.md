@@ -1,7 +1,7 @@
 # LeetCodeHub
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
-## Esse repositorio apresenta algumas das questões que apresentei proeficiencia no LeetCode
+## Esse repositorio apresenta algumas das questÃµes que apresentei proeficiencia no LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0219-contains-duplicate-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
@@ -110,11 +113,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
