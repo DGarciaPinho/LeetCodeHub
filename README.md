@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0257-binary-tree-paths) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
