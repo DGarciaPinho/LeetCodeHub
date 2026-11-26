@@ -36,4 +36,17 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0050-powx-n) |
+| [2573-remove-nodes-from-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/2573-remove-nodes-from-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/2573-remove-nodes-from-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
