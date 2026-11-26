@@ -37,15 +37,18 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -61,6 +64,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0015-3sum) |
+| [0234-palindrome-linked-list](https://github.com/DGarciaPinho/LeetCodeHub/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
